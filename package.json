@@ -1,0 +1,16 @@
+{
+  "jbrowsePlugin": {
+    "name": "AliasRefSeqs",
+    "js": ".",
+    "css": false
+  },
+  "name": "aliasrefseqs-jbrowse-plugin",
+  "version": "1.0.0",
+  "description": "Little plugin that you can fork that changes the names of reference sequences in the JBrowse reference sequence selector",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Buels",
+  "license": "WTFPL"
+}
