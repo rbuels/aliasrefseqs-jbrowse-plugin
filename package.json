@@ -1,7 +1,6 @@
 {
   "jbrowsePlugin": {
     "name": "AliasRefSeqs",
-    "js": ".",
     "css": false
   },
   "name": "aliasrefseqs-jbrowse-plugin",
